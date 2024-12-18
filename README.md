@@ -17,7 +17,7 @@ I am Sunil Poudel!
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsrZxyAe5ytI50W72nR0cuw?label=Color%20Stats%20Subs)
 
 <h2>Connect with me:</h2>
-<a href="https://linkedin.com/in/iamsunilpoudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan-g-b98308246" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iamsunilpoudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunil-poudel" height="30" width="40" /></a>
 
 
 <h1>Tools and Languages</h1>
@@ -31,6 +31,13 @@ I am Sunil Poudel!
   <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django logo" height="40" width="40">
   
 </p>
+
+<div align="left">
+  <h2>📊 GitHub Stats</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunil-poudel&show_icons=true&locale=en&layout=compact&theme=dark" alt="sunil-poudel" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunil-poudel&show_icons=true&locale=en&theme=dark" alt="sunil-poudel" /></p>
+</div>
 
 
 
