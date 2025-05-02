@@ -9,13 +9,6 @@ I am Sunil Poudel!
 - ⚡ Fun fact: Android and web development fascinates me!
 <br/>
 <hr/>
-<!-- <h1>My socials</h1>
-
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCttJQBhj7vxW9dxBsCCvTFg?label=AssignIt%20views)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCttJQBhj7vxW9dxBsCCvTFg?label=AssignIt%20subs)<br/>
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCsrZxyAe5ytI50W72nR0cuw?label=Color%20Stats%20views)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsrZxyAe5ytI50W72nR0cuw?label=Color%20Stats%20Subs)
- -->
 <h2>Connect with me:</h2>
 <a href="https://linkedin.com/in/iamsunilpoudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunil-poudel" height="30" width="40" /></a>
 
