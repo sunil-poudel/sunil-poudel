@@ -3,11 +3,6 @@ I am Sunil Poudel!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunil-poudel&label=Profile%20views&color=0e75b6&style=flat" alt="sunil-poudel" /> </p>
 
 - 🔭 I’m currently studying Bachelor of Engineering (BE) in Computer.
-- 🌱 I’m currently learning android and web development.
-- 💬 Ask me about Java 
-- 📫 How to reach me: suneelpdl90@gmail.com
-- ⚡ Fun fact: Android and web development fascinates me!
-<br/>
 <hr/>
 <h2>Connect with me:</h2>
 <a href="https://linkedin.com/in/iamsunilpoudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunil-poudel" height="30" width="40" /></a>
@@ -22,7 +17,7 @@ I am Sunil Poudel!
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" alt="c logo" height="40" width="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="c++ logo" height="40" width="40">
   <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django logo" height="40" width="40">
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/800px-Spring_Boot.svg.png" alt="spring boot logo" height="40" width="40">
 </p>
 
 <div align="left">
