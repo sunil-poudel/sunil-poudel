@@ -12,7 +12,10 @@ I am Sunil Poudel!
 <p>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/java-programming-language-icon.png" width="40" height="40" alt="java logo">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="python logo" height="40" width="40">
-  <img src="https://www.w3.org/html/logo/badge/html5-badge-v-solo.png" alt="html logo" height="40" width="40">
+  <img src="https://img.icons8.com/color/512/html-5.png" alt="html logo" height="40" width="40">
+   <img src="https://ultimatecourses.com/assets/category/css-fcba6b473cb1125595dc28163be24eb673907258b5f6f6c82967a0587a9df20c.svg" alt="css logo" height="40" width="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/TypeScript_ESLint_logo.svg/768px-TypeScript_ESLint_logo.svg.png" alt="typescript logo" height="40" width="40">
+  <img src="https://raw.githubusercontent.com/github/explore/c700f6f5bb68a850405eef411cf878162ff34b59/topics/angular/angular.png" alt="angular logo" height="40" width="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/330px-Bootstrap_logo.svg.png" alt="bootstrap logo" height="40" width="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" alt="c logo" height="40" width="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="c++ logo" height="40" width="40">
